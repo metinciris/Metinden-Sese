@@ -36,7 +36,7 @@ Bu proje, **Windows 10 / 11** üzerinde **tamamen lokal** çalışan bir **Türk
 
 ## 🚀 Kurulum (Adım Adım)
 
-### 1️⃣ Bu repoyu indir
+### 1️⃣ İstersen bu repoyu indir
 
 * Yeşil **Code → Download ZIP**
 * ZIP’i aç
@@ -45,6 +45,7 @@ Bu proje, **Windows 10 / 11** üzerinde **tamamen lokal** çalışan bir **Türk
 ```
 C:\piper_tts\
 ```
+veya verdiğimiz web_tts.py dosyasını "C:\piper_tts\" içine koy
 
 ---
 
