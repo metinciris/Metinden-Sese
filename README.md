@@ -203,7 +203,7 @@ Bu durumda:
 Bu repo, **Windows + Python bilen herkesin**
 “metni yaz → sesi duy” ihtiyacını **en sade ve güvenli** şekilde çözmek için hazırlandı.
 
-> Yeni Türkçe ses modeli çıkarsa şu koddan görebilirsin:
+> Yeni Türkçe ses modeli çıkarsa CMD penceresinde şu koddan görebilirsin:
 ```
-python3 -m piper.download_voices
+python -m piper.download_voices
 ```
