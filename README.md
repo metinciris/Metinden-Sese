@@ -66,13 +66,13 @@ Klasöre gir:
 cd C:\piper_tts
 ```
 
-Türkçe model:
+Türkçe modeli "C:\piper_tts" içine indirmek için kullanılacak kod:
 
 ```bat
 python -m piper.download_voices tr_TR-dfki-medium
 ```
 
-İndirilen dosyalar:
+Aşağıdaki dosyalar indirilmiş olacak:
 
 ```
 tr_TR-dfki-medium.onnx
